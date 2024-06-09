@@ -3,6 +3,3 @@
 Generate voxelized representation of observed objects as a 3D object within Unity.
 
 ![](Imgs/capture.png)
-
-
-![](Imgs/preview.mkv)
